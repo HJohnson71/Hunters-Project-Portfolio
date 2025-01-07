@@ -1,6 +1,3 @@
-# Hunters Project Portfolio
-This portfolio is a collection of my data science projects.
-
 ## [Project 1: Markowitz optimal portfolio creation using the Factor Weighted Lasso Algorithim](https://github.com/HJohnson71/Glasso-Project)
 - Leveraged stock market data from yfinance package and a provided database to create Markowitz minimum variance portfolios using the Factor Graphical Lasso (FGL) Algorithim suggested by [Lee and Seregina](https://arxiv.org/abs/2011.00435)
 - FGL utilizes graphical methods for inverese covariance (precision) matrix estimation
