@@ -13,3 +13,10 @@
 - Database build with trigger functions to prevent creating negative product inventories and other operational errors
 - A small sample of data was entered into the database for sample visualzations using Tableau:
 ![image](https://github.com/user-attachments/assets/cb77513a-e9d7-499d-87ce-12831bf84ac4) ![image](https://github.com/user-attachments/assets/27e15dd1-b10f-4489-b3c5-4249034b8060)
+
+## [Project 3: Support Vector Regression for portfolio optimization](https://github.com/smithjesse3/Trading-Strategy)
+- Implemented a trading strategy using Support Vector Regression with RBF kernel method for predicting stock prices and trading every 7days as buy, hold, or sell, based on the generated trading signals.
+- Outperformed typical "buy and hold" strategy for a subset of S&P500 stocks by 56% on test data
+- Conducted thorough literature review to confirm robustness of the generated porfolio selection model:
+![image](https://github.com/user-attachments/assets/e7bb2345-d259-4e8a-9dba-fa3728ce483b)
+
