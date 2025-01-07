@@ -20,3 +20,9 @@
 - Conducted thorough literature review to confirm robustness of the generated portfolio selection model:
 ![image](https://github.com/user-attachments/assets/e7bb2345-d259-4e8a-9dba-fa3728ce483b)
 
+## [Algorithims: This repo showcases by practice in applying different types of algorithms](https://github.com/HJohnson71/Algorithms)
+- Greedy Algorithms
+- Graph algorithms including Breadth/Depth first search and topological sorting
+- Dynamic programming
+- Shortest path algorithms
+- Minimum spanning tree algorithms
